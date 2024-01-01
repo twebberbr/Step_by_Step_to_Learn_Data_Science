@@ -1,6 +1,6 @@
 
 # day by day to be a Data Scientist
-
+![](./images/DataScience.png)
 
 ## DAY 1 :
 ### Topic: Learn fundamentals of Python:
