@@ -4,12 +4,12 @@
 
 # general roadmap
 
-![]()
+![](./images/Learning-Roadmap.png)
 
 
 # Details of the roadmap
 
-![]()
+![](./images/detailsRoadmap.png)
 
 ## DAY 1 :
 ### Topic: Learn fundamentals of Python:
