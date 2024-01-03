@@ -68,7 +68,7 @@
 5. Data Manipulation
 
 ## DAY 5:
-### Topic: Advanced Pandas
+### Topic:Intermediate Pandas
 1. Data Aggregations
 2. Data Visualizations
 3. Time Series Data Handling
@@ -504,14 +504,185 @@
 1. Data Visualization of the Categorical Columns
 2. Feature Engineering of the Categorical Columns
 
-## DAY 52:
+## DAY 52: 
 ### Topic: Model Building and Evaluation
+- **Model Selection**: Choosing the right model for the problem (classification, regression, etc.).
+- **Training and Testing**: Splitting data into training and testing sets to evaluate model performance.
+- **Evaluation Metrics**: Using metrics like accuracy, precision, recall, and MSE for performance assessment.
+- **Cross-Validation**: Implementing cross-validation techniques for more reliable model evaluation.
+- **Model Interpretability**: Understanding and explaining model decisions.
 
-## DAY 53:
+## DAY 53
 ### Topic: Hyperparameter Tuning the Models
+- **Hyperparameter Basics**: Understanding what hyperparameters are in machine learning models.
+- **Tuning Techniques**: Introducing Grid Search, Random Search, and Bayesian Optimization.
+- **Practical Implementation**: Applying hyperparameter tuning on a sample model.
+- **Performance Impact**: Assessing how hyperparameters influence model outcomes.
+- **Best Practices**: Discussing balance in model complexity and overfitting.
 
-## DAY 54:
-### Topic: History of Deep Learning
+## DAY 54: History of Deep Learning
+### Topics:
+1. Early Developments: Tracing the origins and initial concepts of neural networks.
+2. Key Milestones: Highlighting major breakthroughs and influential models in deep learning.
+3. Deep Learning Resurgence: Understanding the factors contributing to the modern rise of deep learning.
+4. Influential Models: Overview of landmark models in deep learning history.
+5. Future Trends: Discussing current trends and potential future developments in deep learning.
 
-## DAY 53 (22 Nov 2023):
-### Topic: Introduction to Neural Networks
+## DAY 55: Deep Learning Frameworks
+### Topics:
+1. Introduction to TensorFlow
+2. Introduction to PyTorch
+3. Comparison of Frameworks
+4. Setting Up a Simple Neural Network in Both Frameworks
+
+## DAY 56: Introduction to Neural Networks
+### Topics:
+1. Neural Network Structure: Exploring the basic architecture including neurons and layers.
+2. Forward Propagation: Understanding how data is processed in a neural network.
+3. Backpropagation and Training: Learning the mechanism of training neural networks.
+4. Activation Functions: Introduction to different activation functions and their purposes.
+5. Simple Implementation: Hands-on example of creating a basic neural network.
+
+## DAY 57: Convolutional Neural Networks (CNNs)
+### Topics:
+1. Understanding the Architecture of CNNs
+2. Applications in Image Recognition
+3. Implementing a Basic CNN
+
+## DAY 58: Recurrent Neural Networks (RNNs) and LSTM
+### Topics:
+1. Architecture of RNNs
+2. Long Short-Term Memory (LSTM) Networks
+3. Applications in Time Series and Text
+
+## DAY 59: Transfer Learning and Fine-Tuning
+### Topics:
+1. Concepts of Transfer Learning
+2. Pre-trained Models
+3. Fine-Tuning Techniques
+
+## DAY 60: Generative Adversarial Networks (GANs)
+### Topics:
+1. Introduction to GANs
+2. Understanding Generator and Discriminator
+3. Simple GAN Implementation
+
+## DAY 61: Reinforcement Learning Basics
+### Topics:
+1. Understanding the Reinforcement Learning Framework
+2. Markov Decision Processes
+3. Basic Algorithms in Reinforcement Learning
+
+## DAY 62: Advanced Topics in Reinforcement Learning
+### Topics:
+1. Deep Q-Networks (DQN)
+2. Policy Gradient Methods
+3. Real-world Applications
+
+## DAY 63: Model Deployment
+### Topics:
+1. Introduction to Model Deployment
+2. Flask for Python
+3. Docker Basics
+
+## DAY 64: Ethics in AI and Data Science
+### Topics:
+1. Understanding Bias in Data
+2. Ethical Considerations in AI
+3. Privacy and Data Security
+
+## DAY 65: Text Mining and Natural Language Processing (NLP) Basics
+### Topics:
+1. Text Preprocessing Techniques
+2. Introduction to NLTK and Spacy
+3. Basic Text Analysis
+
+## DAY 66: Advanced NLP Techniques
+### Topics:
+1. Sentiment Analysis
+2. Topic Modeling
+3. Named Entity Recognition
+
+## DAY 67: Introduction to Computer Vision
+### Topics:
+1. Basic Image Processing Techniques
+2. OpenCV Basics
+3. Simple Applications in Image Analysis
+
+## DAY 68: Advanced Computer Vision Techniques
+### Topics:
+1. Object Detection
+2. Face Recognition
+3. Optical Character Recognition (OCR)
+
+## DAY 69: Cloud Services for Machine Learning
+### Topics:
+1. Introduction to AWS Sagemaker
+2. Introduction to Google Cloud ML Engine
+3. Deploying Models on Cloud Platforms
+
+## DAY 70: Big Data Technologies
+### Topics:
+1. Introduction to Big Data Ecosystem
+2. Basics of Apache Hadoop and Spark
+3. Big Data Processing and Analysis
+
+## DAY 71: Introduction to Tableau
+### Topics:
+1. Getting Started with Tableau
+2. Basic Data Visualization Concepts
+3. Creating Dashboards and Stories in Tableau
+
+## DAY 72: Tableau Intermediate
+### Topics:
+1. Advanced Data Visualization Techniques
+2. Working with Different Data Sources in Tableau
+3. Interactive Dashboards and Data Exploration
+
+## DAY 73: Tableau Advanced
+### Topics:
+1. Advanced Calculations in Tableau (Table Calculations, LOD Expressions)
+2. Working with Geospatial Data in Tableau
+3. Performance Optimization in Tableau
+
+## DAY 74: Capstone Project with Tableau
+### Topics:
+1. Applying Tableau Skills in a Real-World Scenario
+2. Creating an End-to-End Data Visualization Project
+3. Storytelling with Data using Tableau
+
+## DAY 75: Introduction to Power BI
+### Topics:
+1. Getting Started with Power BI
+2. Basic Data Modeling and Visualization
+3. Creating Reports and Dashboards in Power BI
+
+## DAY 76: Power BI Intermediate
+### Topics:
+1. DAX Basics: Data Analysis Expressions
+2. Advanced Data Modeling in Power BI
+3. Interactive Reports and Dashboard Design
+
+## DAY 77: Power BI Advanced
+### Topics:
+1. Advanced DAX for Complex Calculations
+2. Working with Power BI Service (Cloud)
+3. Data Refresh, Security, and Administration in Power BI
+
+## DAY 78: Capstone Project with Power BI
+### Topics:
+1. Applying Power BI Skills in a Business Context
+2. End-to-End Business Intelligence Project
+3. Sharing Insights and Dashboards with Stakeholders
+
+## DAY 79: Integration of Tableau and Power BI with Machine Learning
+### Topics:
+1. Leveraging Machine Learning Models in Tableau and Power BI
+2. Visualizing Machine Learning Outputs
+3. Advanced Analytics with Tableau and Power BI
+
+## DAY 80: Final Capstone Project Presentation
+### Topics:
+1. Finalizing the Capstone Project
+2. Presenting the Project to Peers or Stakeholders
+3. Receiving Feedback and Reflecting on the Learning Journey
