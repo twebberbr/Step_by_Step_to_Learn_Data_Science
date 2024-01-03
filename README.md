@@ -54,7 +54,7 @@
 6. NumPy for Statistical Analysis
 7. Advanced NumPy Techniques
    
-   **Resources:** 
+   **Resources:**  [Numpy Medium](https://medium.com/geekculture/a-complete-guide-on-numpy-for-machine-learning-fd4ec1f168b7)
 
 ## DAY 4:
 ### Topic: Pandas
