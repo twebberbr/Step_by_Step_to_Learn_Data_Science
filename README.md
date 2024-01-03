@@ -2,14 +2,9 @@
 # day by day to be a Data Scientist
 ![](./images/DataScience.png)
 
-# general roadmap
+# roadmap
 
 ![](./images/Learning-Roadmap.png)
-
-
-# Details of the roadmap
-
-![](./images/detailsRoadmap.png)
 
 ## DAY 1 :
 ### Topic: Learn fundamentals of Python:
