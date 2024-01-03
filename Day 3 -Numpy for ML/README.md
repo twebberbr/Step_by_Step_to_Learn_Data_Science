@@ -12,4 +12,4 @@
 
    **Project**   [MovieLens Project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%203%20-Numpy%20for%20ML/MovieLens%20Project.ipynb)
    
-   **Solution**  [Solution of the Project](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/log?scriptVersionId=157606919)
+   **Solution**  [Solution of the Project](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919)https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919)
