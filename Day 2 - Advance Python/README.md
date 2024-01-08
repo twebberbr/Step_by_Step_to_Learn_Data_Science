@@ -10,6 +10,7 @@
   - Classes
   - Objects
 
+[builtins functions](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%202%20-%20Advance%20Python/all%20the%20builtins%20functions.ipynb)
 
 **Resources:** [Python with w3schools.com](https://www.w3schools.com/python/python_functions.asp) (first 16)
 
