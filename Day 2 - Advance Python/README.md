@@ -10,6 +10,7 @@
   - Classes
   - Objects
 
+
 **Resources:** [Python with w3schools.com](https://www.w3schools.com/python/python_functions.asp) (first 16)
 
 **Note:** first, you need to accomplish the project and then compare it with the given solution
