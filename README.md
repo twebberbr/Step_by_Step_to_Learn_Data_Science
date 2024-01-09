@@ -68,6 +68,8 @@
 4. Data Cleaning
 5. Data Manipulation
 
+**Resource** [datacamp](https://www.datacamp.com/tutorial/pandas)
+
 ## DAY 5:
 ### Topic:Intermediate Pandas
 1. Data Aggregations
