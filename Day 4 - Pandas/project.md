@@ -2,7 +2,7 @@
 
 # Description
 
-This dataset is commonly used for sentiment analysis, text mining, and customer feedback analysis. It contains reviews written by customers for women's clothing items purchased online. Key elements of the dataset usually include:
+This [dataset](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) is commonly used for sentiment analysis, text mining, and customer feedback analysis. It contains reviews written by customers for women's clothing items purchased online. Key elements of the dataset usually include:
 
 - Clothing ID: Unique identifier of the reviewed product.
 - Age: Age of the reviewer.
