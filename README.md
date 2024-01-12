@@ -166,6 +166,9 @@
    - 2.1 Heat Map
    - 2.2 Cluster Map
 
+**Description** [here]()
+**Project** [jupyter NoteBook](https://www.kaggle.com/code/hassaneskikri/heart-disease-visualisation?scriptVersionId=158757150)
+
 ## DAY 11:
 
 ### Topic: Data Cleaning
