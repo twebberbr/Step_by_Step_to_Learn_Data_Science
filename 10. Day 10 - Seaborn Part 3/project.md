@@ -26,13 +26,17 @@ this project involves processing and analyzing a dataset to uncover patterns and
         - duplicated()
         - drop_duplicates()
 ## 4 - Data Visualisation
-    Identify trends and patterns in the data.
-    Use Matplotlib or Seaborn for histograms, bar charts, scatter plots, etc.
+    - Identify trends and patterns in the data.
+    - Use Matplotlib or Seaborn for histograms, bar charts, scatter plots, etc.
         - suplots
         - axes 
         - histplot
-    give an interpretation
-        Explain what your visualizations reveal about heart disease.
+        - barplot
+        - boxplot
+        - catplot
+        - countplot
+    - give an interpretation
+    - Explain what your visualizations reveal about heart disease.
 
 ## 5. Sharing
 - **Platforms**: Share on Kaggle, GitHub, or personal blogs.
