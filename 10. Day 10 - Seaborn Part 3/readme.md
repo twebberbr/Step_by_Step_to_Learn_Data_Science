@@ -1,16 +1,22 @@
 ## DAY 10:
 
-### Topic: Seaborn Multivariate and Matrix Plots
+### Topic: Seaborn Part 3:
 
-1. Multivariate Plots
-   - 1.1 Using Parameters
-   - 1.2 Relational Plot
-   - 1.3 Facet Grid
-   - 1.4 Pair Plot
-   - 1.5 Pair Grid
-2. Matrix PLots
-   - 2.1 Heat Map
-   - 2.2 Cluster Map
+#### Today, we will explore various probability distributions and their visualizations using the Seaborn library.
 
-**Description** [here]()
+- Normal Distribution
+- Binomial Distribution
+- Poisson Distribution
+- Uniform Distribution
+- Logistic Distribution
+- Multinomial Distribution
+- Exponential Distribution
+- Chi Square Distribution
+- Rayleigh Distribution
+- Pareto Distribution
+- Zipf Distribution
+
+**resource** [w3scole article](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
+
+**Description** [here](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/10.%20Day%2010%20-%20Seaborn%20Part%203/project.md)
 **Project** [jupyter NoteBook](https://www.kaggle.com/code/hassaneskikri/heart-disease-visualisation?scriptVersionId=158757150)
