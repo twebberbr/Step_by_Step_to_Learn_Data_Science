@@ -112,56 +112,68 @@
 
 ### Topic: Advanced Matplotlib
 
-1. Multiple Subplots
+1. [Multiple Subplots](https://www.youtube.com/watch?v=XFZRVnP-MTU&ab_channel=CoreySchafer)
    - 1.1 Creating Multiple Plots in a Single Figure
    - 1.2 Combining Different Types of Plots
 2. Advanced Features
-   - 2.1 Adding annotations and text
-   - 2.2 Fill the Area Between Plots
-   - 2.3 Plotting Time Series Data
-   - 2.4 Creating 3D Plots
-   - 2.5 Live Plot - Incorporating Animations and Interactivity.
+   - [2.1 Adding annotations and text](https://www.youtube.com/watch?v=xLw9wf9uNuw&ab_channel=sentdex)
+   - [2.2 Fill the Area Between Plots](https://www.youtube.com/watch?v=x0Uguu7gqgk&ab_channel=CoreySchafer)
+   - [2.3 Plotting Time Series Data](https://www.youtube.com/watch?v=_LWjaAiKaf8&ab_channel=CoreySchafer)
+   - [2.4 Creating 3D Plots](https://www.youtube.com/watch?v=fAztJg9oi7s&ab_channel=NeuralNine)
+   - [2.5 Live Plot - Incorporating Animations and Interactivity.](https://www.youtube.com/watch?v=Ercd-Ip5PfQ&ab_channel=CoreySchafer)
+
+**Aditional resource** [Articel](https://www.kaggle.com/code/subinium/simple-matplotlib-visualization-tips)
+
+**Aditional resource** [jupyter Notebook](https://www.kaggle.com/code/subinium/simple-matplotlib-visualization-tips): This file contains a wide range of techniques for better visualization.
 
 ## DAY 8 :
 
-### Topic: Seaborn Fundamentals Revision
+### Topic: Seaborn part 1:
+- scatter plots
+- line plots
+- bar plots
+- histograms
+- density plots
+- box plots
+- violin plots
+- heatmaps
 
-1. Categorical Plots
-   - 1.1 Count Plot
-   - 1.2 Swarm Plot
-   - 1.3 Point Plot
-   - 1.4 Cat Plot
-   - 1.5 Categorical Box Plot
-   - 1.6 Categorical Violin Plot
+
+**resource** [datacamp article](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
 
 ## DAY 9:
 
-### Topic: Seaborn Univariate and Bivariate Plots
+### Topic: Seaborn Part 2:
 
-1. Univarite Plots
-   - 1.1 KDE Plot
-   - 1.2 Rug Plot
-   - 1.3 Box Plot
-   - 1.4 Violin Plot
-   - 1.5 Strip Plot
-2. Bivariate PLots
-   - 2.1 Regression Plot
-   - 2.2 Joint Plot
-   - 2.3 Hexbin Plot
+- pair plots
+- joint plots
+- facet grids
+- Customizing Seaborn plots
+   - Changing Color Palettes
+   - Adjusting Figure Size
+   - Adding Annotations
+
+**resource** [datacamp article](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
 
 ## DAY 10:
 
-### Topic: Seaborn Multivariate and Matrix Plots
+### Topic: Seaborn Part 3:
 
-1. Multivariate Plots
-   - 1.1 Using Parameters
-   - 1.2 Relational Plot
-   - 1.3 Facet Grid
-   - 1.4 Pair Plot
-   - 1.5 Pair Grid
-2. Matrix PLots
-   - 2.1 Heat Map
-   - 2.2 Cluster Map
+#### Today, we will explore various probability distributions and their visualizations using the Seaborn library.
+
+- Normal Distribution
+- Binomial Distribution
+- Poisson Distribution
+- Uniform Distribution
+- Logistic Distribution
+- Multinomial Distribution
+- Exponential Distribution
+- Chi Square Distribution
+- Rayleigh Distribution
+- Pareto Distribution
+- Zipf Distribution
+
+**resource** [w3scole article](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
 
 **Description** [here]()
 **Project** [jupyter NoteBook](https://www.kaggle.com/code/hassaneskikri/heart-disease-visualisation?scriptVersionId=158757150)
