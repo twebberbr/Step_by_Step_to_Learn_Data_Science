@@ -11,4 +11,4 @@
 - heatmaps
 
 
-**resource** [datacamp article](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+**resource** [datacamp article](https://www.datacamp.com/tutorial/seaborn-python-tutorial)
