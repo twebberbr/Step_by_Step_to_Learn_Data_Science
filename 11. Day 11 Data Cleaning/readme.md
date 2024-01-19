@@ -8,6 +8,6 @@
 
 **We will discover all this throut this project:**
 
-[**Discription**]()
+[**Discription**](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/11.%20Day%2011%20Data%20Cleaning/project.md)
 
-[**Solution**]()
+[**Solution**](https://www.kaggle.com/code/hassaneskikri/cleaning-the-nyc-property-sales-dataset?scriptVersionId=159674651)
