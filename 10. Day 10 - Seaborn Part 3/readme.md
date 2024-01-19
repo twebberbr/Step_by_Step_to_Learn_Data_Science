@@ -19,11 +19,8 @@
 **resource** [w3scole article](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
 
 **Description** [here](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/10.%20Day%2010%20-%20Seaborn%20Part%203/project.md)
+
 **Project** [jupyter NoteBook](https://www.kaggle.com/code/hassaneskikri/heart-disease-visualisation?scriptVersionId=158757150)
-
-
-
-
 
 # Discover Your Path to Becoming a Data Scientist – Check Out This Comprehensive Data Science Roadmap!
 
