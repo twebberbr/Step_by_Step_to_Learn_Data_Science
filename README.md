@@ -195,63 +195,91 @@
 
 ## DAY 12:
 
-### Topic: Descriptive Statistics
+### Topic: Statistique and Probability part 1:
 
-1. Mean, Median, Mode: These are measures of central tendency.
-2. Variance and Standard Deviation: These quantify data spread or dispersion.
-3. Skewness and Kurtosis: These describe the shape of data distributions.
-4. Quantiles and Percentiles: These help analyze data distribution.
-5. Box Plots for Descriptive Stats: Box plots provide a visual summary of the dataset.
-6. Interquartile Range (IQR): The IQR is the range covered by the middle 50% of the data
+- **Unit 1: Analyzing Categorical Data**
+  - Topics include analyzing one categorical variable, two-way tables, distributions in two-way tables.
+
+- **Unit 2: Displaying and Comparing Quantitative Data**
+  - Covers displaying quantitative data with graphs, describing and comparing distributions, and more on data displays.
+
+- **Unit 3: Summarizing Quantitative Data**
+  - Focuses on measuring center in quantitative data, interquartile range, variance, and standard deviation.
+
+- **Unit 4: Modeling Data Distributions**
+  - Includes topics like percentiles, z-scores, density curves, and normal distributions.
+
+[**Resource:**](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)
 
 ## DAY 13:
 
-### Topic: Probability for Data Science
+- **Unit 5: Exploring Bivariate Numerical Data**
+  - Discusses scatterplots, correlation coefficients, trend lines, and regression.
 
-1. Probability Basics: Understand the fundamental concepts like events, outcomes, and sample spaces.
-2. Probability Formulas: Master key formulas:
-   - Probability of an Event (P(A)): Number of favorable outcomes / Total number of outcomes.
-   - Conditional Probability (P(A|B)): Probability of A given that B has occurred.
-   - Bayes' Theorem: A powerful tool for updating probabilities based on new evidence.
-   - Law of Large Numbers: As you increase the sample size, the sample mean converges to the population mean. Crucial for statistical inference.
-3. Probability Distributions:
-   - Normal Distribution: The bell curve is everywhere in data science. It's essential for hypothesis testing and confidence intervals.
-   - Bernoulli Distribution: For binary outcomes (like success or failure).
-   - Binomial Distribution: When dealing with a fixed number of independent Bernoulli trials.
-   - Poisson Distribution: Used for rare events, like customer arrivals at a store.
+- **Unit 6: Study Design**
+  - Covers statistical questions, sampling methods, types of studies, and experiments.
+
+- **Unit 7: Probability**
+  - Topics include theoretical probability, set operations, experimental probability, and rules of probability.
+
+- **Unit 8: Counting, Permutations, and Combinations**
+  - Focuses on counting principle, permutations, combinations, and combinatorics.
+
+### Topic: Statistique and Probability part 2:
+
+
+[**Resource:**](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data)
 
 ## DAY 14:
 
-### Topic: Inferential Statistics
+### Topic: Statistique and Probability part 3:
 
-1. Central Limit Theorem
-2. Hypothesis Testing
-3. Deriving p-values
-4. Z-Test
-5. T-Test
+- **Unit 9: Random Variables**
+  - Discusses discrete and continuous random variables, transforming and combining random variables, binomial and geometric distributions, and more.
+
+- **Unit 10: Sampling Distributions**
+  - Covers the concept of sampling distributions, including distributions of sample proportions and means.
+
+- **Unit 11: Confidence Intervals**
+  - Introduces confidence intervals and covers how to estimate population proportions and means.
+
+- **Unit 12: Significance Tests (Hypothesis Testing)**
+  - Explores the idea of significance tests, error probabilities, tests about population proportions and means, and more.
+
+[**Resource:**](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library)
 
 ## DAY 15:
 
-### Topic: Inferential Statistics
+### Topic: Statistique and Probability part 4:
 
-1. Chi-Square Test
-2. F-Test/ANOVA
-3. Covariance
-4. Pearson Correlation
-5. Spearman Rank Correlation
+- **Unit 13: Two-Sample Inference for the Difference Between Groups**
+  - Focuses on comparing two proportions and two means, among other related topics.
+
+- **Unit 14: Inference for Categorical Data (Chi-Square Tests)**
+  - Discusses chi-square goodness-of-fit tests and chi-square tests for relationships.
+
+- **Unit 15: Advanced Regression (Inference and Transforming)**
+  - Covers inference about slope, nonlinear regression, and other advanced regression topics.
+
+- **Unit 16: Analysis of Variance (ANOVA)**
+  - Focuses on the analysis of variance (ANOVA) methodology.
+    
+[**Resource:**](https://www.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples)
 
 ## DAY 16:
 
 ### Topic: Exploratory Data Analysis (EDA)
 
-1. Load the Dataset
-2. Inspect the Dataset
-3. Clean the Data if Necessary
-4. Visualization
-5. Statistical Summaries
-6. Hypothesis Testing and Inferences
-7. Communicate Findings (Summarize the key findings from the EDA process)
+**The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.**
 
+- Examine the data distribution
+- Handling missing values of the dataset(a most common issue with every dataset)
+- Handling the outliers
+- Removing duplicate data
+- Encoding the categorical variables
+- Normalizing and Scaling
+
+[**Resource**](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-exploratory-data-analysis-eda/)
 ## Day 17:
 
 ### Topic: SQL Basics and Simple Queries
