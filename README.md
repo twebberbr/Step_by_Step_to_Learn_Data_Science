@@ -213,6 +213,8 @@
 
 ## DAY 13:
 
+### Topic: Statistique and Probability part 2:
+
 - **Unit 5: Exploring Bivariate Numerical Data**
   - Discusses scatterplots, correlation coefficients, trend lines, and regression.
 
@@ -224,9 +226,6 @@
 
 - **Unit 8: Counting, Permutations, and Combinations**
   - Focuses on counting principle, permutations, combinations, and combinatorics.
-
-### Topic: Statistique and Probability part 2:
-
 
 [**Resource:**](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data)
 
@@ -280,6 +279,7 @@
 - Normalizing and Scaling
 
 [**Resource**](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-exploratory-data-analysis-eda/)
+
 ## Day 17:
 
 ### Topic: SQL Basics and Simple Queries
