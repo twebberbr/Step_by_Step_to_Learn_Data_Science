@@ -282,42 +282,92 @@
 
 ## Day 17:
 
-### Topic: SQL Basics and Simple Queries
+### Topic: SQL Basics Concepts
 
-- Understanding SQL and Databases
-- Writing Basic SQL Queries (SELECT FROM WHERE…)
+- **Creating Database**: Learn how to create your own database.
+- **Creating Tables and Adding Data**: Understand how to create tables and insert data into them.
+- **SELECT Clause**: Learn to retrieve or fetch data from a database.
+- **FROM Clause**: Understand from which table in the database you need to select data.
+- **WHERE Clause**: Learn to form conditions based on which data have to be queried.
+- **DELETE Statement**: Understand how to perform deletion tasks.
+- **INSERT INTO**: Learn about insertion tasks.
+- **AND and OR Operator**: Know how to select data based on AND or OR conditions.
+- **Drop and Truncate**: Learn to drop or truncate collections as per the condition.
+- **NOT Operator**: Understand how to select data not based on a given condition.
 
-## DAY 18:
+[**Resources**](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 
-### Topic: Intermediate Queries and Joining Tables
+## DAY 18: 
 
-- Functions and Aggregations
-  - COUNT(), SUM(), AVG(), MIN(), MAX()
-  - Group by
-  - Having
-- Joins and Subqueries
-  - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN.
+### Topic: SQL Advanced Concepts
+
+- **WITH Clause**: Understanding the concept of the WITH clause and using it to name a sub-query block.
+- **FETCH Clause**: Learn to fetch the filtered data based on conditions, like fetching only the top 3 rows.
+- **Arithmetic Operators**: Use arithmetic operators for precise data filtering.
+- **Wildcard Operators**: Select exact data intelligently, like names starting or ending with 'T'.
+- **UPDATE Statement**: Learn updating data entries based on conditions.
+- **ALTER Table**: Know how to add, drop, or modify tables.
+- **LIKE Clause**: Understand pattern-based search.
+- **BETWEEN and IN Operator**: Learn to select data within a specified range.
+- **CASE Statement**: Understand conditional queries.
+- **EXISTS**: Learn to form nested queries for filtering data that exists in another query.
+
+[**Resources**](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 
 ## DAY 19:
 
-### Topic: Introduction to Machine Learning
+### Topic: SQL Aggregate Functions
 
-1. What is Machine Learning?
-2. Types of Machine Learning?
+- **DISTINCT Clause**: Select only distinct, non-repetitive data.
+- **Count Function**: Learn to return the total count of filtered data.
+- **Sum Function**: Understand how to calculate the sum of queried data.
+- **Average Function**: Calculate the average of queried data.
+- **Minimum Function**: Learn to find the minimum value in queried data.
+- **Maximum Function**: Learn to find the maximum value in queried data.
+- **ORDER BY**: Order queried data in ascending or descending order.
+- **GROUP BY**: Group queried data by a specified column.
+- **ALL and ANY Clause**: Understand these logical operators and their boolean results.
+- **TOP Clause**: Learn to fetch a limited number of rows from a database.
+
+[**Resources**](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 
 ## DAY 20:
 
-### Topic: Machine Learning Fundamentals
+### Topic: Joins in SQL
 
-3. What is Supervised Machine Learning?
-4. Types of Supervised ML?
+- **Union Clause**: Understand the union of tables.
+- **Intersection Clause**: Learn to join tables at their intersection.
+- **Aliases**: Assign aliases to tables for later reference.
+- **Cartesian Join and Self Join**: Learn to join a table to itself.
+- **Inner, Left, Right, and Full Joins**: Understand these four types of joins.
+- **Division Clause**: Find entities interacting with all entities of a set of different types.
+- **Using Clause**: Modify NATURAL JOIN with the USING clause for columns with the same names but different datatypes.
+- **Combining Values**: Combine aggregate and non-aggregate values using Joins and Over clause.
+- **MINUS Operator**: Understand how to use the MINUS operator for exclusion.
+- **Joining 3 or More Tables**: Learn to join and query from three or more tables.
+
+[**Resources**](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 
 ## DAY 21:
 
-### Topic: Machine Learning
+### Topic:  Introduction to Machine Learning
+![](https://media.licdn.com/dms/image/D4D22AQEhYJV-Fx8JVQ/feedshare-shrink_1280/0/1698458310613?e=1708560000&v=beta&t=3XdL5BSSXDCsDuEPVvLSfdmR2BH3uDqUmDM7xwUsqFE)
 
-5. Unsupervised Machine Learning
-6. Reinforcement Learning
+## Machine Learning Definition 
+## Examples and Use Cases
+- Recommendation engines (Amazon, Spotify, Netflix).
+- Speech recognition software.
+- Fraud detection services in banks.
+- Self-driving cars and driver assistance features.
+## How Does Machine Learning Work?
+## Machine Learning vs. Deep Learning
+## Types of Machine Learning
+1. **Supervised Machine Learning**: Trained on labeled data sets.
+2. **Unsupervised Machine Learning**: Uses unlabeled data sets to uncover patterns.
+3. **Semi-supervised Machine Learning**: Combines labeled and unlabeled data sets.
+4. **Reinforcement Learning**: Uses trial and error in specific environments.
+## Machine Learning Benefits and Risks
+[**Resources**](https://www.coursera.org/articles/what-is-machine-learning)
 
 ## DAY 22 :
 
@@ -331,6 +381,9 @@
 6. Train the Model
 7. Evaluate the Model
 8. Deploy and Retrain
+
+[**Resources**](https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/)
+[**practical example**](https://www.kaggle.com/code/hassaneskikri/titanic)
 
 ## DAY 23 :
 
