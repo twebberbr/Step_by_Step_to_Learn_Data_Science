@@ -367,6 +367,7 @@
 3. **Semi-supervised Machine Learning**: Combines labeled and unlabeled data sets.
 4. **Reinforcement Learning**: Uses trial and error in specific environments.
 ## Machine Learning Benefits and Risks
+
 [**Resources**](https://www.coursera.org/articles/what-is-machine-learning)
 
 ## DAY 22 :
@@ -383,6 +384,7 @@
 8. Deploy and Retrain
 
 [**Resources**](https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/)
+
 [**practical example**](https://www.kaggle.com/code/hassaneskikri/titanic)
 
 ## DAY 23 :
