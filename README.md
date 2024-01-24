@@ -392,19 +392,26 @@
 
 ### Topic: Exploring Scikit-Learn
 
-1. sklearn.datasets
-2. sklearn.preprocessing
-3. sklearn.model_selection
-4. sklearn.feature_selection
-5. sklearn.linear_model And Many more...
+1. Basic Example: A simple example using Scikit-Learn for machine learning.
+2. Data Loading: Guidelines on data requirements and loading techniques.
+3. Model Fitting: Instructions for fitting both supervised and unsupervised learning models.
+4. Prediction: Methods to make predictions using different estimators.
+5. Data Preprocessing: Techniques for standardization, normalization, binarization, and encoding categorical features.
+6. Model Creation: Steps to create supervised and unsupervised learning estimators.
+7. Model Evaluation: Various metrics for assessing the performance of models.
+8. Model Tuning: Strategies for tuning models using grid search and randomized parameter optimization.
+
 
 ## DAY 24 :
 
 ### Topic: Advanced Scikit-Learn Features
 
-1. sklearn.metrics
-2. sklearn.compose
-3. sklearn.pipeline
+- Introduction to Scikit-Learn: Basic concepts and workflow.
+- Data Preprocessing: Techniques for preparing data for modeling.
+- Supervised Learning Models: Instructions for creating and using models like regression and classification.
+- Unsupervised Learning Models: Guides on clustering and dimensionality reduction.
+- Model Tuning and Evaluation: Tips on improving model performance and measuring accuracy.
+- Pipeline and Model Complexity: Insights into streamlining workflows and handling complex data scenarios.
 
 ## DAY 25 :
 
