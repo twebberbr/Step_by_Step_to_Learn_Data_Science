@@ -353,20 +353,20 @@
 ### Topic:  Introduction to Machine Learning
 ![](https://media.licdn.com/dms/image/D4D22AQEhYJV-Fx8JVQ/feedshare-shrink_1280/0/1698458310613?e=1708560000&v=beta&t=3XdL5BSSXDCsDuEPVvLSfdmR2BH3uDqUmDM7xwUsqFE)
 
-## Machine Learning Definition 
-## Examples and Use Cases
-- Recommendation engines (Amazon, Spotify, Netflix).
-- Speech recognition software.
-- Fraud detection services in banks.
-- Self-driving cars and driver assistance features.
-## How Does Machine Learning Work?
-## Machine Learning vs. Deep Learning
-## Types of Machine Learning
-1. **Supervised Machine Learning**: Trained on labeled data sets.
-2. **Unsupervised Machine Learning**: Uses unlabeled data sets to uncover patterns.
-3. **Semi-supervised Machine Learning**: Combines labeled and unlabeled data sets.
-4. **Reinforcement Learning**: Uses trial and error in specific environments.
-## Machine Learning Benefits and Risks
+-  Machine Learning Definition 
+-  Examples and Use Cases
+    - Recommendation engines (Amazon, Spotify, Netflix).
+    - Speech recognition software.
+    - Fraud detection services in banks.
+    - Self-driving cars and driver assistance features.
+- How Does Machine Learning Work?
+- Machine Learning vs. Deep Learning
+-  Types of Machine Learning
+    - **Supervised Machine Learning**: Trained on labeled data sets.
+    - **Unsupervised Machine Learning**: Uses unlabeled data sets to uncover patterns.
+    - **Semi-supervised Machine Learning**: Combines labeled and unlabeled data sets.
+    -  **Reinforcement Learning**: Uses trial and error in specific environments.
+- Machine Learning Benefits and Risks
 
 [**Resources**](https://www.coursera.org/articles/what-is-machine-learning)
 
@@ -374,14 +374,15 @@
 
 ### Topic: Steps in Machine Learning Project
 
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Data Preprocessing
-5. Data Splitting
-6. Train the Model
-7. Evaluate the Model
-8. Deploy and Retrain
+- Define the Problem: Identify the problem you want to solve and determine if machine learning can be used to solve it.
+- Collect Data: Gather and clean the data that you will use to train your model. The quality of your model will depend on the quality of your data.
+- Explore the Data: Use data visualization and statistical methods to understand the structure and relationships within your data.
+- Pre-process the Data: Prepare the data for modeling by normalizing, transforming, and cleaning it as necessary.
+- Split the Data: Divide the data into training and test datasets to validate your model.
+- Choose a Model: Select a machine learning model that is appropriate for your problem and the data you have collected.
+- Train the Model: Use the training data to train the model, adjusting its parameters to fit the data as accurately as possible.
+- Evaluate the Model: Use the test data to evaluate the performance of the model and determine its accuracy.
+- Fine-tune the Model: Based on the results of the evaluation, fine-tune the model by adjusting its parameters and repeating the training process until the desired level of accuracy is achieved.
 
 [**Resources**](https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/)
 
