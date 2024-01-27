@@ -348,6 +348,11 @@
 
 [**Resources**](https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/)
 
+[**Project to practice**](https://github.com/HassaneSkikri/Analyse_Covide19_with_SQL_Tableau)
+first download the dataset [here](https://github.com/HassaneSkikri/Analyse_Covide19_with_SQL_Tableau/tree/main/data) than try to practice all the SQL Queries in the readme file, after this you can see the correction [here](https://github.com/HassaneSkikri/Analyse_Covide19_with_SQL_Tableau/blob/main/SQLQuery.sql)
+
+Don't focus on the Tableau section; we will delve into it in the previous lessons.
+
 ## DAY 21:
 
 ### Topic:  Introduction to Machine Learning
@@ -386,11 +391,14 @@
 
 [**Resources**](https://www.analyticsvidhya.com/blog/2021/04/steps-to-complete-a-machine-learning-project/)
 
-[**practical example**](https://www.kaggle.com/code/hassaneskikri/titanic)
+[**practical Project**](https://www.kaggle.com/code/hassaneskikri/titanic) : This project is quite popular. You can discover all these steps. Take your time because these steps exist in every project.
 
 ## DAY 23 :
 
 ### Topic: Exploring Scikit-Learn
+first if you don´t know which algorithm are you going to use. You shouldn't be worried about it. Scikit-learn tells you what to do:
+![](https://scikit-learn.org/stable/_static/ml_map.png)
+We will discover:
 
 1. Basic Example: A simple example using Scikit-Learn for machine learning.
 2. Data Loading: Guidelines on data requirements and loading techniques.
@@ -400,6 +408,8 @@
 6. Model Creation: Steps to create supervised and unsupervised learning estimators.
 7. Model Evaluation: Various metrics for assessing the performance of models.
 8. Model Tuning: Strategies for tuning models using grid search and randomized parameter optimization.
+
+[**Resource**]()
 
 
 ## DAY 24 :
@@ -412,6 +422,8 @@
 - Unsupervised Learning Models: Guides on clustering and dimensionality reduction.
 - Model Tuning and Evaluation: Tips on improving model performance and measuring accuracy.
 - Pipeline and Model Complexity: Insights into streamlining workflows and handling complex data scenarios.
+
+[**Resource**]()
 
 ## DAY 25 :
 
