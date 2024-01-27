@@ -14,4 +14,6 @@ We will discover:
 7. Model Evaluation: Various metrics for assessing the performance of models.
 8. Model Tuning: Strategies for tuning models using grid search and randomized parameter optimization.
 
-[**Resource**]()
+[**Resource**](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/23.%20Day%2023%20Exploring%20Scikit-learn/scikit%20learn%20part1.pdf)
+
+This is a PDF file that can provide you with all of the above.
