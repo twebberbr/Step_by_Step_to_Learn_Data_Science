@@ -9,4 +9,5 @@
 - Model Tuning and Evaluation: Tips on improving model performance and measuring accuracy.
 - Pipeline and Model Complexity: Insights into streamlining workflows and handling complex data scenarios.
 
-[**Resources**]()
+[**Resources**](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/24.%20Day%2024%20Advanced%20Scikit-Learn%20Features/scikit%20learn%20part2.pdf)
+This is a PDF file that can provide you with all of the above.
