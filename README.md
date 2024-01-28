@@ -6,6 +6,9 @@
 
 ![](./images/Learning-Roadmap.png)
 
+
+First check this article on medium it will provide you will a lot of information: [here](https://medium.com/@Hassane_01/data-science-roadmap-93d1f1447d5f)
+
 ## DAY 1 :
 
 ### Topic: Learn fundamentals of Python:
@@ -21,7 +24,7 @@
   - If conditions
   - For loops
 
-**Resource:** [Learn Python with Kaggle](https://www.kaggle.com/learn/python/course)
+**Resource:** [Exploring The Power of python:part 1](https://medium.com/@Hassane_01/exploring-the-power-of-python-part-1-214ddeaa837f)
 
 ## DAY 2 :
 
@@ -35,13 +38,19 @@
   - Classes
   - Objects
 
-**Resources:** [Python with w3schools.com](https://www.w3schools.com/python/python_functions.asp) (first 16)
+
+**Resources:** [Exploring the power of python:part 2](https://medium.com/@Hassane_01/exploring-the-power-of-python-part-2-10186a1d9664)
 
 **Note:** first, you need to accomplish the project and then compare it with the given solution
 
 **Project:** [Personal Finance Tracker and Budget Planner](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%202%20-%20Advance%20Python/Personal%20Finance%20Tracker%20Project.ipynb)
 
-**Solution:** [Solution of the Project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%202%20-%20Advance%20Python/Solution%20fo%20the%20project.ipynb)
+**Solution:** [Solution of the Project](https://www.kaggle.com/code/hassaneskikri/personal-finance-tracker-and-budget-planner-projec)
+
+
+**Additional resource:** [all the builtins functions](https://www.kaggle.com/code/hassaneskikri/discover-all-the-built-in-functions)
+
+
 
 ## Day 3:
 
@@ -55,43 +64,53 @@
 6. NumPy for Statistical Analysis
 7. Advanced NumPy Techniques
 
-**Resources:** [Numpy Medium](https://medium.com/geekculture/a-complete-guide-on-numpy-for-machine-learning-fd4ec1f168b7)
-
-**summary about Numpy** [NoteBook](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%203%20-Numpy%20for%20ML/NumPy_Notebook.ipynb)
+**Resources:** [Numpy Medium](https://medium.com/@Hassane_01/mastering-numpy-a-comprehensive-guide-for-data-science-a6be4b7516d0)
 
 **Project** [MovieLens Project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%203%20-Numpy%20for%20ML/MovieLens%20Project.ipynb)
 
 **Solution** [Solution of the Project](<https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919)https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919>)
 
+**Additional resource** [summary about Numpy](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%203%20-Numpy%20for%20ML/NumPy_Notebook.ipynb)
+
 ## DAY 4:
 
 ### Topic: Pandas
+1. What is Pandas
+2. Installation and Setup
+    - How to install Pandas
+    - Setting up the environment
+3. Pandas Data Structures
+    - Series: Basics and creation
+    - DataFrame: Basics, creation, and operations
+4. Data Importing and Exporting
+    - Reading data from different sources (CSV, Excel, etc.)
+    - Writing data to files
+5. Basic Data Operations
+    - Data selection and filtering
+    - Data sorting
+    - Handling missing values
+6. Data Aggregation and Grouping
+    - Group by operations
+    - Aggregate functions (sum, mean, etc.)
 
-1. Data Structures
-2. Data Loading and Data Inspection
-3. Data Selection and Indexing
-4. Data Cleaning
-5. Slicing and Extracting Data in pandas
-5. Data Manipulation
+**Resource** [Pandas part1](https://medium.com/@Hassane_01/learn-pandas-part-1-bd399bca0dbc)
 
-**Resource** [datacamp: divide it into 2 days](https://www.datacamp.com/tutorial/pandas)
+## DAY 5:
+
+### Topic:Intermediate Pandas
+1. Advanced Data Selection
+2. Data Transformation
+3. Time Series Analysis in Pandas
+4. Performance Enhancement Techniques
+
+**resources** [Pandas part 2:](https://medium.com/@Hassane_01/pandas-for-data-science-part-2-9acb62f7fd13)
 
 **Project** [Description of the project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%204%20-%20Pandas/project.md)
 
 **Solution** [Kaggle](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews)
 
-## DAY 5:
+**Additional Source** [time and categorical data](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%205%20-%20Intermediate%20pandas/time%20and%20categorical%20data.md)
 
-### Topic:Intermediate Pandas
-1. Data analysis in pandas
-2. Data Aggregations
-3. Pivot tables 
-4. Time Series Data Handling
-5. Handling Categorical Data
-
-**resources** 
-- [1, 2, 3 -> you can check on the resources of the day 4](https://www.datacamp.com/tutorial/pandas)
-- [4,5 -> here](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%205%20-%20Intermediate%20pandas/time%20and%20categorical%20data.md) 
 
 
 ## DAY 6 :

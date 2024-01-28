@@ -13,4 +13,4 @@
   - If conditions
   - For loops
 
-**Resource:** [Learn Python with Kaggle](https://www.kaggle.com/learn/python/course)
+**Resource:** [Exploring The Power of python:part 1](https://medium.com/@Hassane_01/exploring-the-power-of-python-part-1-214ddeaa837f)

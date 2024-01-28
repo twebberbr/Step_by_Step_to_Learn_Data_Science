@@ -1,15 +1,22 @@
 ## DAY 4:
 
 ### Topic: Pandas
-***this is just the fundamental***
-1. Data Structures
-2. Data Loading and Data Inspection
-3. Data Selection and Indexing
-4. Data Cleaning
-5. Data Manipulation
+1. What is Pandas
+2. Installation and Setup
+    - How to install Pandas
+    - Setting up the environment
+3. Pandas Data Structures
+    - Series: Basics and creation
+    - DataFrame: Basics, creation, and operations
+4. Data Importing and Exporting
+    - Reading data from different sources (CSV, Excel, etc.)
+    - Writing data to files
+5. Basic Data Operations
+    - Data selection and filtering
+    - Data sorting
+    - Handling missing values
+6. Data Aggregation and Grouping
+    - Group by operations
+    - Aggregate functions (sum, mean, etc.)
 
-**Resource** [datacamp](https://www.datacamp.com/tutorial/pandas)
-
-**Project** [Description of the project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%204%20-%20Pandas/project.md)
-
-**Solution** [Kaggle](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews)
+**Resource** [Pandas part1](https://medium.com/@Hassane_01/learn-pandas-part-1-bd399bca0dbc)
