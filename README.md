@@ -109,7 +109,7 @@ First check this article on medium it will provide you will a lot of information
 
 **Solution** [Kaggle](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews)
 
-**Additional Source** [time and categorical data](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%205%20-%20Intermediate%20pandas/time%20and%20categorical%20data.md)
+**Additional Source** [time and categorical data](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/05.%20Day%205%20-%20Intermediate%20pandas/time%20and%20categorical%20data.md)
 
 
 
