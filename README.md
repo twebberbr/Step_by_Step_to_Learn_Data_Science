@@ -43,7 +43,7 @@ First check this article on medium it will provide you will a lot of information
 
 **Note:** first, you need to accomplish the project and then compare it with the given solution
 
-**Project:** [Personal Finance Tracker and Budget Planner](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%202%20-%20Advance%20Python/Personal%20Finance%20Tracker%20Project.ipynb)
+**Project:** [Personal Finance Tracker and Budget Planner](**Project:** [Personal Finance Tracker and Budget Planner](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/02.%20Day%202%20-%20Advance%20Python/project.md))
 
 **Solution:** [Solution of the Project](https://www.kaggle.com/code/hassaneskikri/personal-finance-tracker-and-budget-planner-projec)
 
@@ -66,11 +66,11 @@ First check this article on medium it will provide you will a lot of information
 
 **Resources:** [Numpy Medium](https://medium.com/@Hassane_01/mastering-numpy-a-comprehensive-guide-for-data-science-a6be4b7516d0)
 
-**Project** [MovieLens Project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%203%20-Numpy%20for%20ML/MovieLens%20Project.ipynb)
+**Project** [MovieLens Project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/03.%20Day%203%20-Numpy%20for%20ML/MovieLens%20Project.ipynb)
 
 **Solution** [Solution of the Project](<https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919)https://www.kaggle.com/code/hassaneskikri/movielens-project-solution/notebook?scriptVersionId=157606919>)
 
-**Additional resource** [summary about Numpy](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%203%20-Numpy%20for%20ML/NumPy_Notebook.ipynb)
+**Additional resource** [summary about Numpy](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/03.%20Day%203%20-Numpy%20for%20ML/NumPy_Notebook.ipynb)
 
 ## DAY 4:
 
@@ -105,7 +105,7 @@ First check this article on medium it will provide you will a lot of information
 
 **resources** [Pandas part 2:](https://medium.com/@Hassane_01/pandas-for-data-science-part-2-9acb62f7fd13)
 
-**Project** [Description of the project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%204%20-%20Pandas/project.md)
+**Project** [Description of the project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/05.%20Day%205%20-%20Intermediate%20pandas/project.md)
 
 **Solution** [Kaggle](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews)
 

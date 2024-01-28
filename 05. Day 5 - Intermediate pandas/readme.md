@@ -8,7 +8,7 @@
 
 **resources** [Pandas part 2:](https://medium.com/@Hassane_01/pandas-for-data-science-part-2-9acb62f7fd13)
 
-**Project** [Description of the project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/Day%204%20-%20Pandas/project.md)
+**Project** [Description of the project](https://github.com/HassaneSkikri/Step_by_Step_to_Learn_Data_Science/blob/main/05.%20Day%205%20-%20Intermediate%20pandas/project.md)
 
 **Solution** [Kaggle](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews)
 
